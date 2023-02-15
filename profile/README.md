@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="../assets/LUCI_dark_mode.png?raw=true#gh-dark-mode-only" alt="LUCI Systems logo">
-  <img src="../assets/LUCI_light_mode.png?raw=true#gh-light-mode-only" alt="LUCI Systems logo">
+  <img src="https://raw.githubusercontent.com/LUCI-Systems/.github/main/assets/LUCI_dark_mode.png#gh-dark-mode-only" alt="LUCI Systems logo">
+  <img src="https://raw.githubusercontent.com/LUCI-Systems/.github/main/assets/LUCI_light_mode.png#gh-light-mode-only" alt="LUCI Systems logo">
 </p>
 
 <h1 align="center">LUCI Systems is your Modern OS for Multimedia Systems</h1>
